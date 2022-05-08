@@ -18,4 +18,4 @@ The drill guide will help with making sure everything lines up properly. You don
 I will be adding more details, pictures, and maybe an install video in the near future. These will most likely be on my website which is about to go live. I have a lot more freedom with creating good, easy to follow content on there than I do on here.
 
 
-For any questions find me on the Voron Discord in the MODs channel @lessonz101 #6037
+For any questions find me on the Voron Discord in the MODs channel @SmooshWorx #6037
