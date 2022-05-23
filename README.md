@@ -2,6 +2,11 @@
 
 Works on all models of Trident and V2.4
 
+***Update***
+Since my CAD skills are slightly less than stellar I overlooked the fact that the basket is a little thicker than the main body. On the bright side a fellow discord member took the time to create a TPU gasket to fix my oversight and make the overall design fit better. The link to their github for the gasket STL is below. Thanks TRCHEN1033 for this. I will be adding a fixed 'thicker' body for those of you that don't want to print the TPU gasket.
+
+https://github.com/trchen1033/VoronMods/tree/main/pepe_gasket
+
 Named after the cartoon character. Felt it was a fitting name for something that takes the stink out. Plus I could not think of anything to continue the 'F'-pack naming scheme without going down a very fun but offensive path. 
 
 ****** PRINT AND STUDY ALL PARTS BEFORE DRILLING ANY HOLES!!! ******
